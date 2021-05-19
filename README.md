@@ -1,7 +1,7 @@
 # esx_rpchat
 esx_rpchat all in one V1 by !༒+$Paranoid®#9999
 
-
+SOON 
 
 esx_rpchat ALL IN ONE bajo la licencia CC BY-NC-SA 4.0
 
